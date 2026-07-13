@@ -1,1 +1,19 @@
+__pycache__/
 
+.venv/
+
+.idea/
+
+.vscode/
+
+exports/
+
+history/
+
+*.pdf
+
+*.docx
+
+.DS_Store
+
+.env
