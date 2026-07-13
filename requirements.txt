@@ -1,1 +1,9 @@
-
+gradio
+langgraph
+langchain
+langchain-ollama
+ollama
+duckduckgo-search
+reportlab
+python-docx
+pandas
